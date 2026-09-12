@@ -1,3 +1,4 @@
 node_modules/
 output/playwright/
+output/release/
 .DS_Store
